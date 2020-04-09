@@ -1,5 +1,6 @@
 # Vertex-Firmware-H1
 ![Github](https://img.shields.io/badge/license-GPL--3.0-orange)
+
 Vertex firmware updated to Marlin 1.1.X!
 
 ## Marlin Firmware
