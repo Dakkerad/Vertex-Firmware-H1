@@ -3,6 +3,14 @@
 
 Vertex firmware updated to Marlin 1.1.9.1!
 
+## DISCLAIMER!
+
+USE AT YOUR OWN RISK!
+
+By using this firmware you agree to:
+
+I will not be held responsible for any damage or harm done to you, your printer, people around you, or anything else in relation the the use/modification of this firmware.
+
 ## Marlin Firmware
 
 *Marlin is published under the GPL license because we believe in open development. The GPL comes with both rights and obligations. Whether you use Marlin firmware as the driver for your open or closed-source product, you must keep Marlin open, and you must provide your compatible Marlin source code to end users upon request. The most straightforward way to comply with the Marlin license is to make a fork of Marlin on Github, perform your modifications, and direct users to your modified fork.*
