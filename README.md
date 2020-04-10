@@ -6,6 +6,8 @@ Vertex firmware updated to Marlin 1.1.9!
 This firmware is much newer than the one that Vellman provides for the Velleman Vertex Original (Velleman K8400)
 The firmware includes new features such as bed leveling to compensate for an uneven print surface, and includes the fixes and improvements included in newer Marlin firmwares to increase printing quality.
 
+This firmware also includes other fixes to the firmware from the community such as the E-steps fix, so you should use 100% Flow without overextrusion, and the preheat temperatures are adjusted to prevent/minimize clogging that are caused by the poor design of the original hotend.
+
 ## DISCLAIMER!
 
 USE AT YOUR OWN RISK!
