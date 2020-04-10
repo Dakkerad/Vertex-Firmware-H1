@@ -30,7 +30,7 @@ Website: https://marlinfw.org
 
 Project: https://github.com/MarlinFirmware/Marlin
 
-## Vertex Firmware
+**Vertex Firmware**
 
 *Same license as Marlin Firmware as the Vertex Firmware is based on this*
 
