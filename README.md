@@ -1,4 +1,4 @@
-# Vertex-Firmware single extruder
+# Velleman Vertex Original (K8400) Single Extruder Firmware
 ![Github](https://img.shields.io/badge/license-GPL--3.0-orange)
 
 Vertex firmware updated to Marlin 1.1.9!
@@ -9,6 +9,21 @@ The firmware includes new features such as bed leveling to compensate for an une
 This firmware also includes other community fixes such as the E-steps fix, so you should use 100% Flow without overextrusion, and the preheat temperatures are adjusted to prevent/minimize clogging that are caused by the poor design of the original hotend.
 
 I have tested this on my own "non hardware modified" Velleman K8400.
+
+## Installation
+
+*The installation is almost the same as the original Vertex Firmware*
+
+0. Download the latest version of Arduino software if you havent already (This is a bonus by using the latest Marlin version, so you don't have to use the outdated 32-bit version of Arduino)
+1. Clone this repository or just download it as a .zip file
+2. Open the Marlin.ino file inside the Marlin folder
+3.  Make sure the jumper on the printer is set ready to be flashed
+4.  Make sure to choose the board "Arduino Board or Mega 2560" and make sure to choose the correct processor "ATMega 2560 (Mega 2560)" inside the Arduino software
+5.  Make sure to choose the correct serial port
+6.  Click the upload button on the software
+7.  Wait until it is done and ignore the memory warning
+8.  Open the menu, scroll to "Control", and scroll to "Initialize EEPROM"
+9.  PROFIT??!1
 
 ## DISCLAIMER!
 
