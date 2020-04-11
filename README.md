@@ -38,4 +38,4 @@ Project: https://github.com/MarlinFirmware/Marlin
 
 Website: https://vertex3dprinters.eu
 
-Project: https://github.com/Velleman/Vertex-Firmware-H1/tree/master/vertex-m1-v1.4-h1
+Project: https://github.com/Velleman/Vertex-Firmware-H1
