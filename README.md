@@ -8,6 +8,8 @@ The firmware includes new features such as bed leveling to compensate for an une
 
 This firmware also includes other community fixes such as the E-steps fix, so you should use 100% Flow without overextrusion, and the preheat temperatures are adjusted to prevent/minimize clogging that are caused by the poor design of the original hotend.
 
+I have tested this on my own "non hardware modified" Velleman K8400.
+
 ## DISCLAIMER!
 
 USE AT YOUR OWN RISK!
